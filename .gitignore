@@ -1,0 +1,15 @@
+*.log
+*.exe
+*.suo
+*.ide
+bin/
+obj/
+/TronCore/.vs
+*.dtbcache
+*.lock
+*.ide-shm
+*.ide-wal
+.config/
+.vs/
+.idea/
+.DS_Store
